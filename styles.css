@@ -6,6 +6,11 @@ body{
     font-style: normal;
 }
 
+.greeting{
+    color: #ff0000;
+}
+
+
 ol, ul {
     list-style: none;
 }
